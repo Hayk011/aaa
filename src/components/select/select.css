@@ -1,0 +1,43 @@
+.custom-select,
+.dropzone {
+  position: relative;
+  width: 300px;
+  padding: 16px 10px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  color: #000;
+  border-radius: 10px;
+  border: none;
+  background-color: #eef1f5;
+  margin-top: 10px;
+}
+.label {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+}
+.select-input {
+  width: 100%;
+  background: #d8dee7;
+  border-radius: 10px 10px 0px 0px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  color: #000;
+  padding: 10px;
+  outline: none;
+  border: none;
+}
+.arrow {
+  display: inline-block;
+  height: 8px;
+  width: 8px;
+  border-top: 1px solid;
+  border-left: 1px solid;
+  transform: rotate(-135deg);
+  position: absolute;
+  top: 19px;
+  right: 21px;
+  cursor: pointer;
+}

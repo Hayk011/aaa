@@ -1,0 +1,12 @@
+.custom-input {
+  width: 300px;
+  padding: 16px 10px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  color: #000;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  background-color: #eef1f5;
+  margin-top: 10px;
+}

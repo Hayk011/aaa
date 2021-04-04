@@ -1,0 +1,19 @@
+.multipl-select {
+  position: relative;
+  width: 145px;
+  background: #eef1f5;
+  border-radius: 10px;
+  padding: 16px 10px;
+  height: 48px;
+  margin-top: 28px;
+  font-style: normal;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.multiply-lable {
+  position: absolute;
+  top: -25px;
+  left: 0px;
+}
